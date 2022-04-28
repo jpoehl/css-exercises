@@ -1,0 +1,19 @@
+.normal {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#nr2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#nr4 {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
